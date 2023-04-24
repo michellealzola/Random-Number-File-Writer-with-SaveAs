@@ -16,7 +16,7 @@ namespace Random_Number_File_Writer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmRandomNumFileWriter());
         }
     }
 }

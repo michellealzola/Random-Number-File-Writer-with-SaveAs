@@ -1,6 +1,6 @@
 ﻿namespace Random_Number_File_Writer
 {
-    partial class Form1
+    partial class frmRandomNumFileWriter
     {
         /// <summary>
         /// Required designer variable.
@@ -75,7 +75,7 @@
             this.btnExit.UseVisualStyleBackColor = true;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // Form1
+            // frmRandomNumFileWriter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -84,8 +84,8 @@
             this.Controls.Add(this.tboxNum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnSave);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmRandomNumFileWriter";
+            this.Text = "Random Number File Writer";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -11,9 +11,9 @@ using System.IO;
 
 namespace Random_Number_File_Writer
 {
-    public partial class Form1 : Form
+    public partial class frmRandomNumFileWriter : Form
     {
-        public Form1()
+        public frmRandomNumFileWriter()
         {
             InitializeComponent();
         }
